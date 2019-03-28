@@ -30,9 +30,9 @@ Talk at the Turing meets Crick Seminar, _The Alan Turing Institute, London_ (Feb
 ### 2016 ###
 Poster at the Computational and Physical Biology Interest Group Workshop, _The Francis Crick Institute, London_ (December)
 
-Poster presentation at the Physics of Living Matter Symposium, _DAMTP, Cambridge_ (September)
+Poster at the Physics of Living Matter Symposium, _DAMTP, Cambridge_ (September)
 
-Poster presentation and selected talk in the IASBS-ICTP School on Active Matter
+Poster and selected talk at the IASBS-ICTP School on Active Matter
 and Chemotaxis, _Iran_ (May)
 
-Poster presentation at the Physical Biology Circle Meeting, _Institut Pierre-Gilles de Gennes, Paris_ (May)
+Poster at the Physical Biology Circle Meeting, _Institut Pierre-Gilles de Gennes, Paris_ (May)
