@@ -240,10 +240,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll
   jekyll-sitemap
   jekyll-theme-cayman
-  minima
 
 BUNDLED WITH
    2.0.1
