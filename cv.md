@@ -17,9 +17,10 @@ title: CV
 
 ## Talks and poster presentations ##
 
-### 2018 ###
+### 2019 ###
 Talk at the Cambridge Image Analysis group seminar, _DAMTP, Cambridge_ (January)
 
+### 2018 ###
 Poster at the CINEMAX IV summer school, _Denmark_ (August)
 
 ### 2017 ###
