@@ -37,3 +37,7 @@ Poster and selected talk at the IASBS-ICTP School on Active Matter
 and Chemotaxis, _Iran_ (May)
 
 Poster at the Physical Biology Circle Meeting, _Institut Pierre-Gilles de Gennes, Paris_ (May)
+
+## Academic visits ##
+
+__March, 2019__ TOMCAT beamline, Paul Scherrer Institut, Switzerland 
