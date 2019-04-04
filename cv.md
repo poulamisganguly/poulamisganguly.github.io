@@ -40,4 +40,4 @@ Poster at the Physical Biology Circle Meeting, _Institut Pierre-Gilles de Gennes
 
 ## Academic visits ##
 
-__March, 2019__ TOMCAT beamline, Paul Scherrer Institut, Switzerland 
+* __March, 2019__ TOMCAT beamline, Paul Scherrer Institut, Switzerland 
