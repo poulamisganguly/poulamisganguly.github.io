@@ -9,6 +9,8 @@ title: CV
 * __2010--2013__ BSc(Hons) Physics, _St Stephen's College_, _University of Delhi_
 
 ## Publications ##
+1. Ganguly, P. S., Lucka, F., Hupkes, H. J., Batenburg, K. J. (2020). Atomic superresolution tomography. _Forthcoming_
+
 1. [Ray, R. P., Ganguly, P. S., Alt, S., Davis, J. R., Hoppe, A., Tapon, N., Salbreux, G., & Thompson, B. J. (2018). Apical and basal matrix remodeling control epithelial morphogenesis. Developmental cell, 46(1), 23-39.](https://www.sciencedirect.com/science/article/pii/S153458071830460X)
 
 1. [Alt, S., Ganguly, P., & Salbreux, G. (2017). Vertex models: from cell mechanics to tissue morphogenesis. Philosophical Transactions of the Royal Society B: Biological Sciences, 372(1720), 20150520.](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0520)
@@ -18,6 +20,8 @@ title: CV
 ## Talks and poster presentations ##
 
 ### 2019 ###
+Contributed talk at Applied Inverse Problems, _Grenoble_ (July)
+
 Talk at the Cambridge Image Analysis group seminar, _DAMTP, Cambridge_ (January)
 
 ### 2018 ###
@@ -29,7 +33,6 @@ Poster at the Physical Biology Circle Meeting, _EMBL, Heidelberg_ (March)
 Talk at the Turing meets Crick Seminar, _The Alan Turing Institute, London_ (February)
 
 ### 2016 ###
-Poster at the Computational and Physical Biology Interest Group Workshop, _The Francis Crick Institute, London_ (December)
 
 Poster at the Physics of Living Matter Symposium, _DAMTP, Cambridge_ (September)
 
@@ -38,6 +41,7 @@ and Chemotaxis, _Iran_ (May)
 
 Poster at the Physical Biology Circle Meeting, _Institut Pierre-Gilles de Gennes, Paris_ (May)
 
-## Academic visits ##
+## Academic and industrial visits ##
 
 * __March, 2019__ TOMCAT beamline, Paul Scherrer Institut, Switzerland 
+* __April, 2019__ Thermo Fisher Scientific, The Netherlands
