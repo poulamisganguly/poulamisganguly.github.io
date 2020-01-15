@@ -23,7 +23,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  poulamisganguly
 
 # Build settings
-markdown: kramdown
+markdown: CommonMarkGhPages
 #theme: jekyll-theme-cayman
 theme: minima
 plugins:
