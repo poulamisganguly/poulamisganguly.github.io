@@ -11,7 +11,7 @@ title: CV
 ## Publications ##
 1. Ganguly, P. S., Lucka, F., Hupkes, H. J., Batenburg, K. J. (2020). Atomic superresolution tomography. _Forthcoming_
 
-1. [Ray, R. P., Ganguly, P. S., Alt, S., Davis, J. R., Hoppe, A., Tapon, N., Salbreux, G., & Thompson, B. J. (2018). Apical and basal matrix remodeling control epithelial morphogenesis. Developmental cell, 46(1), 23-39.](https://www.sciencedirect.com/science/article/pii/S153458071830460X)
+1. [Diaz de la Loza, M. C., Ray, R. P., Ganguly, P. S., Alt, S., Davis, J. R., Hoppe, A., Tapon, N., Salbreux, G., & Thompson, B. J. (2018). Apical and basal matrix remodeling control epithelial morphogenesis. Developmental cell, 46(1), 23-39.](https://www.sciencedirect.com/science/article/pii/S153458071830460X)
 
 1. [Alt, S., Ganguly, P., & Salbreux, G. (2017). Vertex models: from cell mechanics to tissue morphogenesis. Philosophical Transactions of the Royal Society B: Biological Sciences, 372(1720), 20150520.](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0520)
 
