@@ -15,3 +15,8 @@ Take a look at our SIAM [poster](https://poulamisganguly.github.io/poster_IS20/)
 
 
 ## Ultrafast reconstruction using Fourier domain filters ##
+In this project, we look at the tomographic problem of reconstructing a 3D object from its 2D projections taken at various angles. Analytical algorithms, such as filtered backprojection in real space and Gridrec in Fourier space achieve reconstruction by direct inversion of the Radon transform. A crucial step in these algorithms is the frequency-dependent filtering of projections. 
+
+Standard filters are independent of the scanned object's features, noise levels in the data and acquisition geometries. Thus, when projection data are noisy or limited in angular range, direct algorithms give poor results. In contrast, iterative algorithms, such as Kaczmarz's method, yield better reconstructions for imperfect data. However, due to their long computation times, the use of such algorithms in ultrafast acquisition settings is challenging. 
+
+In order to achieve ultrafast reconstructions from large noisy data, we propose an approach that combines the speed of direct Fourier-domain methods with the accuracy of iterative algorithms. We achieve this by optimising the filters used in analytical algorithms to the available data in an iterative fashion. These filters, once optimised, can be used on-the-fly and can be applied to different objects scanned under the same noise conditions. Possible use cases for our approach are time-resolved experiments at the synchrotron and continuous-tilt electron tomography.
