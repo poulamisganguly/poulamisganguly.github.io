@@ -20,11 +20,11 @@ title: CV
 ## Talks and poster presentations ##
 
 ### 2020 ###
-Invited minisymposium talk at SIAM Imaging Science (July)
+[Invited minisymposium talk](../presentations/IS20_talk_poulami.pdf) at SIAM Imaging Science (July)
 
-Poster at SIAM Imaging Science (July)
+[Poster](https://poulamisganguly.github.io/poster_IS20/) at SIAM Imaging Science (July)
 
-Talk at International Workshop on Combinatorial Image Analysis (July)
+[Talk](../presentations/Atomic_Super_Resolution_Tomography.pdf) at International Workshop on Combinatorial Image Analysis (July)
 
 ### 2019 ###
 Contributed talk at Applied Inverse Problems, _Grenoble_ (July)
