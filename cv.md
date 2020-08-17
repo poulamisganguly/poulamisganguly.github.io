@@ -19,6 +19,13 @@ title: CV
 
 ## Talks and poster presentations ##
 
+### 2020 ###
+Invited minisymposium talk at SIAM Imaging Science (July)
+
+Poster at SIAM Imaging Science (July)
+
+Talk at International Workshop on Combinatorial Image Analysis (July)
+
 ### 2019 ###
 Contributed talk at Applied Inverse Problems, _Grenoble_ (July)
 
