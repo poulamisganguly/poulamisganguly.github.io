@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: Research
 ---
 ## Project 1 ##
 testing...
