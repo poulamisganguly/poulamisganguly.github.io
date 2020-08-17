@@ -2,6 +2,9 @@
 layout: default
 title: Research
 ---
+
+![research](https://www.mummering.eu/project/images/Slide1.jpg_befCSwgFanvOroQ)
+
 ## Atomic super-resolution tomography ##
 ![energy](https://poulamisganguly.github.io/poster_IS20/figures/energy_smaller.png)
 
