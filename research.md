@@ -6,8 +6,6 @@ title: Research
 ![research](./Slide1.jpg)
 
 ## Atomic super-resolution tomography ##
-![energy](https://poulamisganguly.github.io/poster_IS20/figures/energy_smaller.png)
-
 In this project, we consider the problem of reconstructing a nanocrystal at atomic resolution from very few electron microscopy images. 
 
 In several popular reconstruction approaches, atom locations are confined to a coarse spatial grid, an assumption inspired by the physical a priori knowledge that atoms in a crystalline solid tend to form regular lattices. This constraint, although powerful in solving under-determined problems, makes it much harder to resolve defects that occur widely in atomic lattices. 
