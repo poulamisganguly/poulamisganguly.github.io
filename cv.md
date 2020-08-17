@@ -11,7 +11,7 @@ title: CV
 ## Publications ##
 1. Ganguly, P. S., Pelt, D. M., Batenburg, K. J. (*in preparation*). Ultrafast reconstruction with Fourier-domain filters.
 
-1. [Ganguly, P. S., Lucka, F., Hupkes, H. J., Batenburg, K. J. (2020). Atomic super-resolution tomography. International Workshop on Combinatorial Image Analysis](https://arxiv.org/abs/2002.00710)
+1. [Ganguly, P. S., Lucka, F., Hupkes, H. J., Batenburg, K. J. (2020). Atomic super-resolution tomography. International Workshop on Combinatorial Image Analysis.](https://arxiv.org/abs/2002.00710)
 
 1. [Diaz de la Loza, M. C., Ray, R. P., Ganguly, P. S., Alt, S., Davis, J. R., Hoppe, A., Tapon, N., Salbreux, G., & Thompson, B. J. (2018). Apical and basal matrix remodeling control epithelial morphogenesis. Developmental cell, 46(1), 23-39.](https://www.sciencedirect.com/science/article/pii/S153458071830460X)
 
