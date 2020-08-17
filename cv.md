@@ -20,7 +20,7 @@ title: CV
 ## Talks and poster presentations ##
 
 ### 2020 ###
-[Invited minisymposium talk](../presentations/IS20_talk_poulami.pdf) at SIAM Imaging Science (July)
+[Invited talk](../presentations/IS20_talk_poulami.pdf) at SIAM Imaging Science Minisymposium on Advances in Kaczmarz's Method (July)
 
 [Poster](https://poulamisganguly.github.io/poster_IS20/) at SIAM Imaging Science (July)
 
